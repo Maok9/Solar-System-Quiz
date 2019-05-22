@@ -1,0 +1,43 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    background-image: url(img/background.jpg)
+}
+.contener{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;    
+    width: 1000px;
+    height: 200px;
+   
+}
+.pic-1 img{
+    width: 300px;
+    height: 200px;
+    
+}
+.pic-2 img{
+    width: 300px;
+    height: 200px;
+    
+}
+.pic-3 img{
+    width: 300px;
+    height: 200px;
+    
+}
+.question{
+    display: block;
+    position: relative;
+    bottom: 60px;
+    font-size: 44PX;
+    text-align: center;
+    color: white;
+}
+.con{
+    position: relative;
+    top: 200px;
+}
